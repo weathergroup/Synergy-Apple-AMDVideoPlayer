@@ -2,7 +2,6 @@
 //  AMDVideoPlayer+Notifications.swift
 //
 //
-//  Created by Erik Heath Thomas on 8/22/24.
 //
 
 import SwiftUI

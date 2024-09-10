@@ -2,7 +2,6 @@
 //  AMDMediaSelectionCoordinator.swift
 //  
 //
-//  Created by Erik Heath Thomas on 8/20/24.
 //
 
 import SwiftUI
